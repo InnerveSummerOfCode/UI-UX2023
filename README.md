@@ -8,13 +8,13 @@ Welcome to the ISOC'23 UI/UX Track! In this open-source competition, participant
 
 The sample portfolio website design provided is a source of inspiration. It demonstrates how the tranquil beauty of nature and the marvels of technology can harmoniously coexist in a digital interface. It showcases the potential of seamlessly blending natural elements.
 
-[Sample Design: Nature Meets Technology](Nature_Meets_Technology)
+[Sample Design: Nature Meets Technology](https://www.figma.com/file/aAKhl9Y7SA7HZXEts6EmmZ/isoc-sample?type=design&node-id=0%3A1&mode=design&t=9aB3MFArgA7da44R-1)
 
 ### Theme 2: Retrofuturism
 
 The sample is a brand website for shoe purchasing that shows the transition between retro and futuristic web designs, you can implement the theme in any field of your choice (eg:- Technology, Clothing, etc.)
 
-[Sample Design: Retrofuturism](Retrofuturism)
+[Sample Design: Retrofuturism](https://www.figma.com/file/dkWPzASudnN4lfZ7R3seO6/Innerve-SOC-UI%2FUX?type=design&node-id=0%3A1&mode=design&t=Pt6F7FkzgQrXOtrN-1)
 
 ## Project Overview
 
